@@ -1,0 +1,19 @@
+# Core data processing and evaluation
+pandas
+numpy
+scikit-learn
+
+# Model inference
+torch
+transformers
+accelerate
+
+# Progress tracking
+tqdm
+
+# Figures and result visualization
+matplotlib
+
+# Exploratory retrieval experiments
+sentence-transformers
+faiss-cpu
