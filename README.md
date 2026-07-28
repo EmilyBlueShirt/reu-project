@@ -5,7 +5,7 @@ The project reproduces the CTIBench CTI-ATE benchmark, analyzes the failure mode
 
 
 ## Research Question
-What kinds of LLM errors most strongly influence micro-F1 in MITRE ATT&CK technique extraction, and can targeting an observed failure mode measurably improve extraction?**
+What kinds of LLM errors most strongly influence micro-F1 in MITRE ATT&CK technique extraction, and can targeting an observed failure mode measurably improve extraction?
 
 
 ## Project Overview
